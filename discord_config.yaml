@@ -1,0 +1,5 @@
+token: BOT_TOKEN
+main_channel: Entrance_Channel_ID
+special:
+  should:
+    凱留: Kyaru
